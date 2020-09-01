@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="730506f7-c090-4bbf-a0c9-983bc7e2ca4a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="730506f7-c090-4bbf-a0c9-983bc7e2ca4a" name="Default Changelist" comment="bootstrap-tab" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -140,8 +138,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/notice.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="611" column="54" lean-forward="true" selection-start-line="611" selection-start-column="54" selection-end-line="611" selection-end-column="54" />
+            <state relative-caret-position="2">
+              <caret line="592" column="49" lean-forward="true" selection-start-line="592" selection-start-column="49" selection-end-line="592" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
               </folding>
@@ -310,7 +308,7 @@
       <updated>1598875414325</updated>
       <workItem from="1598875415573" duration="4471000" />
       <workItem from="1598920629700" duration="29169000" />
-      <workItem from="1598962612850" duration="6080000" />
+      <workItem from="1598962612850" duration="6844000" />
     </task>
     <task id="LOCAL-00001" summary="bootstrap-tab">
       <created>1598968551193</created>
@@ -319,14 +317,22 @@
       <option name="project" value="LOCAL" />
       <updated>1598968551193</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="bootstrap-tab">
+      <created>1598968710186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598968710186</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6080000" />
+    <option name="totallyTimeSpent" value="6844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" sideWeight="0.3364486" side_tool="true" weight="0.18440464" />
       <window_info id="Favorites" sideWeight="0.33656958" side_tool="true" visible="true" weight="0.18440464" />
@@ -350,6 +356,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bootstrap-tab" />
@@ -529,8 +561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/notice.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="611" column="54" lean-forward="true" selection-start-line="611" selection-start-column="54" selection-end-line="611" selection-end-column="54" />
+        <state relative-caret-position="2">
+          <caret line="592" column="49" lean-forward="true" selection-start-line="592" selection-start-column="49" selection-end-line="592" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
           </folding>
