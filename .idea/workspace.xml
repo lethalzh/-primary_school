@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="730506f7-c090-4bbf-a0c9-983bc7e2ca4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-2.2.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/notice.ejs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/activity.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/activity.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/notice.js" beforeDir="false" afterPath="$PROJECT_DIR$/data/notice.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/activity-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/activity-list.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/enroll.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/enroll.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/headers.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/headers.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/images-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/images-list.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/news-list.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/views/news-list.ejs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -156,8 +140,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/data/notice.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="594" column="17" selection-start-line="594" selection-start-column="17" selection-end-line="594" selection-end-column="17" />
+            <state relative-caret-position="439">
+              <caret line="611" column="54" lean-forward="true" selection-start-line="611" selection-start-column="54" selection-end-line="611" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
               </folding>
@@ -201,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="330" />
     <option name="y" value="428" />
     <option name="width" value="1441" />
@@ -326,28 +310,35 @@
       <updated>1598875414325</updated>
       <workItem from="1598875415573" duration="4471000" />
       <workItem from="1598920629700" duration="29169000" />
-      <workItem from="1598962612850" duration="5727000" />
+      <workItem from="1598962612850" duration="6080000" />
     </task>
+    <task id="LOCAL-00001" summary="bootstrap-tab">
+      <created>1598968551193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598968551193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5727000" />
+    <option name="totallyTimeSpent" value="6080000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="330" y="428" width="1441" height="983" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="npm" sideWeight="0.33567664" side_tool="true" visible="true" weight="0.24946544" />
-      <window_info id="Favorites" sideWeight="0.33567664" side_tool="true" weight="0.24946544" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6643234" visible="true" weight="0.24946544" />
+      <window_info id="npm" sideWeight="0.3364486" side_tool="true" weight="0.18440464" />
+      <window_info id="Favorites" sideWeight="0.33656958" side_tool="true" visible="true" weight="0.18440464" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6634304" visible="true" weight="0.18440464" />
       <window_info id="Structure" order="1" sideWeight="0.33567664" side_tool="true" weight="0.24946544" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32979977" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32979977" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30368763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -359,6 +350,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bootstrap-tab" />
+    <option name="LAST_COMMIT_MESSAGE" value="bootstrap-tab" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="264" key="CommitChangelistDialog2" timestamp="1598921455927">
@@ -534,8 +529,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/data/notice.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="594" column="17" selection-start-line="594" selection-start-column="17" selection-end-line="594" selection-end-column="17" />
+        <state relative-caret-position="439">
+          <caret line="611" column="54" lean-forward="true" selection-start-line="611" selection-start-column="54" selection-end-line="611" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
           </folding>
