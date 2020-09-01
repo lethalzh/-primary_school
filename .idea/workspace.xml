@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="730506f7-c090-4bbf-a0c9-983bc7e2ca4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/html_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/news.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/iconfont/Rjdaoico.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/iconfont/Rjdaoico.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/iconfont/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/img/background011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/img/background021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/img/bg15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/img/bg16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/img/foot-bj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/img/foot-tbj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/img/index-show-bj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/img/lanmu-bj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/img/logo-bj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/banner1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/banner2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/banner3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/carousel/carousel_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/class1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/class2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/class3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/class4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/page_bj.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/page_bj2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/qrc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/top1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/top2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/ad.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/bigpicroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.SuperSlide2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/wow/animate.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/wow/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/wow/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/about.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/activity-list.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/activity.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/contact.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/footers.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/headers.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/images-list.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/news-list.ejs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="html_2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gt4bF99Jo9MJxhulUFy6Bj9FDy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shinelon\Desktop\html_2\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\school-projects\html_2\views" />
+      <recent name="C:\Users\Shinelon\Desktop\html_2\views\tools" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="730506f7-c090-4bbf-a0c9-983bc7e2ca4a" name="Default Changelist" comment="" />
+      <created>1598875414325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598875414325</updated>
+      <workItem from="1598875415573" duration="4471000" />
+      <workItem from="1598920629700" duration="29169000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="264" key="CommitChangelistDialog2" timestamp="1598921455927">
+      <screen x="0" y="0" width="1852" height="1080" />
+    </state>
+    <state x="0" y="264" key="CommitChangelistDialog2/0.0.1852.1080@0.0.1852.1080" timestamp="1598921455927" />
+    <state width="1880" height="204" key="GridCell.Tab.0.bottom" timestamp="1598953036249">
+      <screen x="0" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1880" height="204" key="GridCell.Tab.0.bottom/0.0.1852.1080@0.0.1852.1080" timestamp="1598953036249" />
+    <state width="1880" height="204" key="GridCell.Tab.0.center" timestamp="1598953036249">
+      <screen x="0" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1880" height="204" key="GridCell.Tab.0.center/0.0.1852.1080@0.0.1852.1080" timestamp="1598953036249" />
+    <state width="1880" height="204" key="GridCell.Tab.0.left" timestamp="1598953036249">
+      <screen x="0" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1880" height="204" key="GridCell.Tab.0.left/0.0.1852.1080@0.0.1852.1080" timestamp="1598953036249" />
+    <state width="1880" height="204" key="GridCell.Tab.0.right" timestamp="1598953036249">
+      <screen x="0" y="0" width="1852" height="1080" />
+    </state>
+    <state width="1880" height="204" key="GridCell.Tab.0.right/0.0.1852.1080@0.0.1852.1080" timestamp="1598953036249" />
+  </component>
+</project>

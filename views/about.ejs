@@ -1,0 +1,100 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>关于我们</title>
+<mvc:annotation-driven enable-matrix-variables="true"></mvc:annotation-driven>
+<context:component-scan base-package="com.th.action"></context:component-scan>
+<mvc:default-servlet-handler/>
+<link href="css/common.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<!--<script type="text/javascript" src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>-->
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/jquery.SuperSlide2.js"></script>
+<script type="text/javascript">
+$(function(){
+	$('#index-news-focus').owlCarousel({
+		items: 1,
+		navigation: true,
+		navigationText: ["上一个","下一个"],
+		autoPlay: true,
+		stopOnHover: true
+	}).hover(function(){
+		$('.owl-buttons').show();
+	}, function(){
+		$('.owl-buttons').hide();
+	});
+});
+</script>
+
+<!--下拉动画-->
+<link rel="stylesheet" href="wow/animate.min.css"/>
+<script type="text/javascript" src="wow/wow.min.js"></script>
+<script>
+	if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))){
+		new WOW().init();
+	};
+	$(function(){
+		
+	});
+</script>
+<!--下拉动画-->
+</head>
+
+<body>
+<!--header S-->
+<header>
+	<!--nav S-->
+    <%- include("./headers.ejs") %>
+    <!--nav E-->
+	<div class="page-banner" style="background:url(images/page_bj.jpg) no-repeat center top; "></div>
+</header>
+<div class="padding-top2"></div>
+<!--header E-->
+
+<div class="curnav">
+	<a href="/">网站首页</a><i>/</i><span>校园简介</span>
+</div>
+
+<div class="pagemain">
+	<div class="page-content">
+    	<h1>校园简介</h1>
+        	<p>文安县第一小学，原为“南关小学” 始建于1957年，地处文安县城南关，是文安县第一所县直小学，有着深厚的文化底蕴。</p>
+            <p>&nbsp;</p>
+            <p><img src="images/carousel/carousel_2.jpg"></p>
+            <p>&nbsp;</p>
+            <p>学校占地8790平方米，建筑面积4300平方米；现有30个教学班，学生1732人，教职员工93人，专任教师81人，学历达标率100%。特级教师1名，市、县级骨干教师22名。随着硬件建设的不断改进，我校已拥有现代化的多媒体教室、图书阅览室、录播教室、微机教室、仪器室、实验室、音乐教室、心理保健室，各项配备均实现小学一类配备标准。</p>
+            <p>&nbsp;</p>
+            <p style="text-align:center;"><img src="images/carousel/carousel_13.jpg"></p>
+            <p>&nbsp;</p>
+            <p>学校本着“以人为本 、和谐自主、促进师生双发展”的办学理念，以“超越自我、追求卓越”为发展内涵，遵循“堂堂正正做人，踏踏实实做事”的工作作风，营造和谐、温馨、昂扬向上的校园氛围。确立“文明、乐学、健美、向上”为校训，营造“求真尚美、自主和谐”的校风，“敬业、爱生、合作、善导”的教风和“自信、自主、乐学、善学”的学风，建立民主平等的师生关系，激发学生学习积极性，主动性和创造性，培养学生健康向上的审美情感和自强不息，艰苦奋斗的个性品质。 </p>
+            <p>学校立足“教师是教育的根本”的观念，开展“立师德、强师能、修师表”活动，以实战式、体验式、主题式、交流式的实践活动，让教师在最适合的研训过程中实现提升。通过“同课异构”、“专家做课”、“公开展示”等课堂历练，使更多的教师得到专业化成长，打造了一支学习型、科研型、创新型、奉献型的高素质教师队伍。他们是学生做人和求知的引导者，特长和潜能的发现者，成长中的鼓励者，学生的欣赏者；学校教育科研氛围浓郁，近三年来，已完成省级重点课题两项，市级课题五项，正在实施市级课题三项，获省科研成果奖一项。我校教师获国家级优质课1节，获省级优质课5节，获市县优质课20节，并有多名教师被评为省市骨干教师、教学能手、优秀班主任、明星教师等。</p>
+            <p>随着素质教育的不断推进，学校科学预设每个环节，用心操作每个细节，让思想、智慧、快乐、关爱充满校园的每个时空，以优美的环境陶冶师生，以亲和的情感交融师生，以优良的校风影响师生，以高雅的品质感染师生。校园中充盈着“互相关爱，互相支持，彼此喝彩，共同进步”的绿色和谐的人际关系。随着师生共同体和家校共建工作的不断深入，家长、学生、教师心相通，情相亲，志相同，力相合，学校越来越让家长、学生、教师感到满意和自豪。</p>
+
+            <p>在全面育人网络下，莘莘学子们全面发展、特长突出，学校以礼仪、经典诵读、才艺为特色，开展了丰富多彩的课外活动，参加各级文艺、体育、绘画比赛成绩喜人，书画作品百余人次获各级奖励。
+                学校曾获廊坊市“素质教育示范性学校”、“教育教学先进校”、“语言文字示范学校”、河北省“教师职工小家”、学校连续四年被县委、县政府授予“精神文明单位”“安全法制先进单位”，2013年获“廊坊市教育工作先进集体”和“文安县教育工作先进集体”，2014年获 “文安县教育教学先进集体”，2016年获“廊坊市家庭教育先进单位”，2017年获廊坊市“文明校园”、“文安县教育教学工作先进集体”荣誉称号，2018年获文安县“走进新时代”主题演讲优秀组织奖、“八卦掌进校园”汇演一等奖，2019年获文安县“诗词大会”优秀奖，2020年获廊坊市青少年宫主题作品优秀组织奖。</p>
+            <p>作为“教与学方式转变”的发源地，我们始终坚持在课堂上激发学生自主学习，让课堂成为学生舞台，让学生成为课堂的主人，继而不断促进全体老师研究中转变，转变中研究。</p>
+            <p>六十载征程，同心共度、你我传承。在社会各界的鼎力支持下，一代又一代一小师生艰苦奋斗、自强不息，无私奉献、锐意进取，谱写了激昂雄壮的奋进乐章，铸就和见证了今天的辉煌。今天的一小师生，决心继往开来，用自己的心血、智慧和汗水，使校园更加焕发青春！以文明、乐学、健美、向上的精神高歌猛进，朝着新的目标拼搏前进，走向新的辉煌！</p>
+            <p></p>
+    </div>
+</div>
+
+
+
+
+<div class="foot-tiao"></div>
+<%- include("./footers.ejs") %>
+
+
+
+
+
+
+<script type="text/javascript">
+jQuery(".banner-slide").slide({mainCell:".bd ul",autoPlay:true,delayTime:2000});
+</script>
+
+
+</body>
+</html>

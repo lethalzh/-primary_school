@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>校园新闻</title>
+
+    <link href="/css/common.css" rel="stylesheet" type="text/css">
+    <link href="/css/style.css" rel="stylesheet" type="text/css">
+    <!--<script type="text/javascript" src="http://libs.baidu.com/jquery/1.9.0/jquery.js"></script>-->
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/common.js"></script>
+    <script type="text/javascript" src="/js/jquery.SuperSlide2.js"></script>
+    <script type="text/javascript">
+        $(function(){
+            $('#index-news-focus').owlCarousel({
+                items: 1,
+                navigation: true,
+                navigationText: ["上一个","下一个"],
+                autoPlay: true,
+                stopOnHover: true
+            }).hover(function(){
+                $('.owl-buttons').show();
+            }, function(){
+                $('.owl-buttons').hide();
+            });
+        });
+    </script>
+
+    <!--下拉动画-->
+    <link rel="stylesheet" href="/wow/animate.min.css"/>
+    <script type="text/javascript" src="/wow/wow.min.js"></script>
+    <script>
+        if (!(/msie [6|7|8|9]/i.test(navigator.userAgent))){
+            new WOW().init();
+        };
+        $(function(){
+
+        });
+    </script>
+</head>
+<body >
+<header>
+<%- include("./headers.ejs") %>
+</header>
+<div class="padding-top3"></div>
+<div class="curnav">
+    <a href="/">网站首页</a><i>/</i><span>新闻详情</span>
+</div>
+
+<div class="pagemain">
+    <div class="page-content" style="text-align: center">
+        <h1><%=newsinfo.title%></h1>
+    <%- newsinfo.comment%>
+    </div>
+</div>
+
+<%- include("./footers.ejs") %>
+</body>
+</html>
