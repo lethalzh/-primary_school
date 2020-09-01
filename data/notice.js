@@ -593,15 +593,12 @@ const netice=[
         title:'开展让红领巾更加鲜艳——“和抗疫先锋一起过六一”主题教育活动通知',
         time:'2020-06-01',
         comment:`
-<p class="MsoNormal" align="center" style="text-align:center;">
-\t<br />
-</p>
 <p class="MsoNormal" style="text-indent:28.0000pt;">
 \t<p class="MsoNormal" style="text-indent:32.0000pt;">
-\t\t<span>一、活动时间：</span>6月4日下午
+\t<span>一、活动时间： 6月4日下午</span>
 \t</p>
 \t<p class="MsoNormal" style="text-indent:32.0000pt;">
-\t\t二、活动内容：
+\t二、活动内容：
 \t</p>
 \t<p class="MsoNormal" style="text-indent:32.0000pt;">
 \t\t1.各班开展让红领巾更加鲜艳——“和抗疫先锋一起过六一”主题教育活动，教师引导学生学习领会习近平总书记“六一”寄语精神。
@@ -613,7 +610,7 @@ const netice=[
 \t\t<span>各中队辅导员及全体少先队员观看</span>“学习强国”河北学习平台六月一日20：00播出的“和抗疫先锋一起过六一”少先队活动课。
 \t</p>
 \t<p class="MsoNormal" style="text-indent:32.0000pt;">
-\t\t三、活动任务：
+\t三、活动任务：
 \t</p>
 \t<p class="MsoNormal" style="text-indent:32.0000pt;">
 \t\t1.上传班会截图
@@ -791,10 +788,10 @@ const netice=[
         comment:`
 <p class="MsoNormal" align="center" style="text-align:center;">
 \t<p class="p" style="margin-left:0.0000pt;text-indent:24.0000pt;background:#FFFFFF;">
-\t\t<span>尊敬的家长朋友</span>:
+\t<span>尊敬的家长朋友:</span>
 \t</p>
 \t<p class="p" style="margin-left:0.0000pt;text-indent:24.0000pt;">
-\t\t<span>您好！首先感谢您对文安县第一小学的信任与支持。本学期您的孩子在老师的鼓励、帮助下</span>,在家长的支持与配合下，已通过自己不懈地努力,圆满完成了学习任务，即将迎来暑假。为了让您的孩子度过一个愉快而有意义的假期,我们做以下温馨提示。
+\t<span>您好！首先感谢您对文安县第一小学的信任与支持。本学期您的孩子在老师的鼓励、帮助下</span>,在家长的支持与配合下，已通过自己不懈地努力,圆满完成了学习任务，即将迎来暑假。为了让您的孩子度过一个愉快而有意义的假期,我们做以下温馨提示。
 \t</p>
 \t<p class="p" align="center" style="margin-left:0.0000pt;text-align:center;background:#FFFFFF;">
 \t\t★温馨提示★&nbsp;
@@ -1425,7 +1422,7 @@ const netice=[
         comment:`
 <p class="MsoNormal" style="text-indent:32.0000pt;">
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
-\t\t<span>今年的学习雷锋纪念日，当下正是新冠病毒防疫时期，为弘扬</span>“奉献、友爱、互助、进步”的志愿精神，扣好人生第一粒扣子，带领广大师生传承和发扬雷锋精神，为打赢疫情防控的人民战争、总体战、狙击战贡献青春力量，我校决定在全校范围内开展“红色一小，筑梦传承”学雷锋共抗疫情实践活动。具体通知如下：
+\t<span>今年的学习雷锋纪念日，当下正是新冠病毒防疫时期，为弘扬“奉献、友爱、互助、进步”的志愿精神</span>，扣好人生第一粒扣子，带领广大师生传承和发扬雷锋精神，为打赢疫情防控的人民战争、总体战、狙击战贡献青春力量，我校决定在全校范围内开展“红色一小，筑梦传承”学雷锋共抗疫情实践活动。具体通知如下：
 \t</p>
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
 \t\t一、活动主题
@@ -1513,19 +1510,19 @@ const netice=[
 <p class="MsoNormal" style="text-indent:32.0000pt;">
 \t<span>
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
-\t\t一、活动目的
+\t一、活动目的
 \t</p>
 \t<p class="p" style="text-indent:28.0000pt;background:#FFFFFF;">
-\t\t<span>为了防止疫情扩散，举国上下同宅家中，秉承</span>“立德树人”的德育基本原则，为了让学生了解当下的疫情与生命的意义，文安县第一小学<span>全体师生在线上召开了一次以</span>“疫情下的生命教育”为主题的班会。
+\t<span>为了防止疫情扩散，举国上下同宅家中，秉承</span>“立德树人”的德育基本原则，为了让学生了解当下的疫情与生命的意义，文安县第一小学<span>全体师生在线上召开了一次以</span>“疫情下的生命教育”为主题的班会。
 \t</p>
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
-\t\t二、活动时间：
+\t二、活动时间：
 \t</p>
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
 \t\t2020年3月24日
 \t</p>
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
-\t\t三、活动内容
+\t三、活动内容
 \t</p>
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
 \t\t一年级：尊重生命，保护自己（依托道德与法治第二单元，我和大自然）
@@ -1546,7 +1543,7 @@ const netice=[
 \t\t六年级：爱护地球，共同责任（依托道德与法治第二单元）
 \t</p>
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
-\t\t四、班会要求
+\t四、班会要求
 \t</p>
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
 \t\t（一）本次主题班会以线上形式组织，时间安排周会课，各班班主任要提前谋划，确保活动顺利开展，切实取得效果。

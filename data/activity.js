@@ -3,9 +3,9 @@ const activity=[
         id:'1',
         title:'文安县第一小学“拒绝暴力，做新时代好少年”法治专题教育讲座',
         date:'',
-        comment:`<p>
-\t<p class="MsoNormal">
-\t\t<img width="554" height="246" src="/images/activity/1 (1).png" />
+        comment:`
+<p>\t<p class="MsoNormal">
+
 \t</p>
 \t<p class="MsoNormal">
 \t\t&emsp;&emsp;<span>为了加强我校校园安全教育，增强法治观念，提高学生预防校园欺凌的意识和能力，进一步构建安全、和谐、文明的校园环境，</span>9月18日下午，学校邀请检察院专委兼我校法治副校长高俪伟、周楠楠检察官来我校进行了“拒绝暴力，做新时代好少年”法治教育专题讲座。
@@ -16,6 +16,7 @@ const activity=[
 \t<p class="MsoNormal">
 \t\t&emsp;&emsp;范主任介绍了本次讲座的重要意义并向同学们提出明确要求，认真聆听讲座，会后写出心得体会。
 \t</p>
+\t\t<img width="554" height="246" src="/images/activity/1 (1).png" />
 \t<p class="MsoNormal">
 \t\t&emsp;&emsp;讲座开始了，高校长首先明确了讲座目的，让同学们认识到校园暴力的表现和危害，能够掌握自我保护的知识，让有暴力倾向的同学转变观念，从而杜绝校园暴力事件的发生。
 \t</p>
@@ -70,21 +71,16 @@ const activity=[
         id:'2',
         title:'不忘初心，筑梦前行 ——文安县第一小学班主任基本功大赛',
         date:'',
-        comment:`<p>
-\t<br />
-</p>
+        comment:`
 <p class="MsoNormal">
 \t<p class="MsoNormal" align="center" style="text-align:center;">
-\t\t三尺讲台五尺身，
+三尺讲台五尺身，一支粉笔写青春。
+\t</p>
+
+\t<p class="MsoNormal" align="center" style="text-align:center;">
+朝露晚霞勤耕耘，育出娇子敬年轮。
 \t</p>
 \t<p class="MsoNormal" align="center" style="text-align:center;">
-\t\t一支粉笔写青春。
-\t</p>
-\t<p class="MsoNormal" align="center" style="text-align:center;">
-\t\t朝露晚霞勤耕耘，
-\t</p>
-\t<p class="MsoNormal" align="center" style="text-align:center;">
-\t\t育出娇子敬年轮。
 \t</p>
 \t<p class="MsoNormal">
 \t\t&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;——赞教师
@@ -217,7 +213,7 @@ const activity=[
 \t\t<br />
 \t</p>
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
-\t\t<img width="540" height="245" src="/images/activity/3 (1).png" align="left" />为了弘扬祖国优秀传统文化，深入地开展读书活动，增加学生的阅读量，提高学生语言表达能力，感受语言的魅力。丰富孩子们宅家抗疫期间的精神文化生活，更多了解中国古代成语故事的来历及现代含义，文安县第一小学特开展线上讲成语故事音视频展播活动。
+\t\t为了弘扬祖国优秀传统文化，深入地开展读书活动，增加学生的阅读量，提高学生语言表达能力，感受语言的魅力。丰富孩子们宅家抗疫期间的精神文化生活，更多了解中国古代成语故事的来历及现代含义，文安县第一小学特开展线上讲成语故事音视频展播活动。<img width="540" height="245" src="/images/activity/3 (1).png" align="left" />
 \t</p>
 \t<p class="MsoNormal" style="text-indent:28.0000pt;">
 \t\t<img width="285" height="219" src="/images/activity/3 (2).png" align="left" />
@@ -953,13 +949,17 @@ const activity=[
 </p>
 <p class="MsoNormal" style="text-indent:32.0000pt;">
 \t<span>
+
+\t<p class="MsoNormal" style="text-indent:32.0000pt;">
+
+<span>小学阶段是儿童可塑造性最强的时期，这一时期的小学生不仅活泼好动</span>,爱听爱说,而且善于口头模仿。为了激发学生学习英语的兴趣并丰富广大同学的课余生活，加强英语的学习和交流，提高同学们学习英语的积极性，给广大同学提供一个展现自我、提升自我的机会和舞台，9月23日上午，我校举行了第二届校园英语演讲大赛，形式多样和新颖独特的比赛形式极大地调动了学生学习的英语兴趣。
+\t</p>
 \t<p class="MsoNormal" align="center" style="text-align:center;">
+
 \t\t<img width="300" height="184" src="/images/activity/12 (1).png" />
 \t</p>
-\t<p class="MsoNormal" style="text-indent:32.0000pt;">
 \t\t<img width="142" height="189" src="/images/activity/12 (2).png" align="left" />
-<img width="142" height="189" src="/images/activity/12 (3).png" align="left" /><span>小学阶段是儿童可塑造性最强的时期，这一时期的小学生不仅活泼好动</span>,爱听爱说,而且善于口头模仿。为了激发学生学习英语的兴趣并丰富广大同学的课余生活，加强英语的学习和交流，提高同学们学习英语的积极性，给广大同学提供一个展现自我、提升自我的机会和舞台，9月23日上午，我校举行了第二届校园英语演讲大赛，形式多样和新颖独特的比赛形式极大地调动了学生学习的英语兴趣。
-\t</p>
+<img width="142" height="189" src="/images/activity/12 (3).png" align="left" />
 \t<p class="MsoNormal" style="text-indent:32.0000pt;">
 \t\t首先是中年级组的同学的精彩呈现。虽然他们年龄小，但是，他们勇敢、自信，在舞台上绽放着他们个人魅力，讲着一口流利的英语，展现着一小学生自信和开朗。
 \t</p>

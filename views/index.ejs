@@ -91,15 +91,15 @@ $(function(){
 
 	<div class="in-text">
     	<h2>校园动态</h2>
-        <% for(j of actdatas){%>
-        <a href="/activity/<%=j.id%>"><span><%=j.title%>></span><em>06/18</em></a>
+        <% for(let j of actdatas){%>
+        <a href="/activity-list/<%=j.id%>"><span><%=j.title%>></span><em>06/18</em></a>
         <%}%>
     </div>
     
     <div class="in-text">
         <h2>相关新闻</h2>
-       <% for(i of newdata){%>
-			<a href="/news/<%=i.newid%>"><span><%=i.title%></span><em><%=i.date.substr(5)%></em></a>
+       <% for(let i of newdata){%>
+			<a href="/news-list/<%=i.newid%>"><span><%=i.title%></span><em><%=i.date.substr(5)%></em></a>
         <%}%>
     </div>
 
@@ -115,7 +115,7 @@ $(function(){
                 <a href="http://www.17sucai.com/"><img alt="与书同行，点亮人生   ——文安县第一小学“世界读书日”主题教育活动" src="/images/carousel/carousel_12.jpg" /></a>
             </div>
             <div class="f_out">
-                <span class="f_out_txt"><a href="http://www.17sucai.com/">放飞梦想，超越自己</a></span>
+                <span class="f_out_txt"><a href="">放飞梦想，超越自己</a></span>
                 <a href="http://www.17sucai.com/"><img alt="放飞梦想，超越自己" src="/images/carousel/carousel_13.jpg" /></a>
             </div>
         </div>

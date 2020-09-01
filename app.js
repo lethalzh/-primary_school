@@ -1,7 +1,6 @@
 var express = require('express');
 let multer=require('multer')
 var path = require('path');
-//let fs=require('fs');
 var logger = require('morgan');
 var querystring = require('querystring')
 var body=require('body-parser');
@@ -92,17 +91,17 @@ app.get('/', (req, res)=> {
 	//console.log(newtit.length,newdate)
 	res.render('index',{newdata:newsDatas,actdatas:actDatas})
 })
-app.get('/news-list/:id', function (req, res) {
-	    	let info={}
-	    	for(item of newsDatas){
-	    		if(item.newid==req.params.id){
-					info=item
-					break;
-				}
-			}
-			res.render('news',{newsinfo:info})
+app.get('/news-list/:id',(req, res)=> {
+	   let info={}
+	   for(item of newsDatas){
+	   		if(item.newid==req.params.id){
+	   			info=item
+				break;
+	   		}
+	   }
+	   res.render('news',{newsinfo:info})
 })
-app.get('/news-list', function (req, res) {
+app.get('/news-list', (req, res)=>{
 	res.render('news-list',{newdata:newsDatas,actdata:actDatas})
 })
 app.get('/activity-list/:id', function (req, res) {
@@ -115,20 +114,30 @@ app.get('/activity-list/:id', function (req, res) {
 	}
 	res.render('activity',{actsinfo:info})
 })
-app.get('/activity-list', function (req, res) {
+app.get('/activity-list',(req, res)=>{
 	res.render('activity-list',{newdata:newsDatas,actdata:actDatas})
 })
-app.get('/images-list', function (req, res) {
+app.get('/images-list/:id', function (req, res) {
+	let info={}
+	for(item of noticeDatas){
+		if(item.id==req.params.id){
+			info=item
+			break;
+		}
+	}
+	res.render('notice',{notinfo:info})
+})
+app.get('/images-list', (req, res)=> {
 	res.render('images-list',{notice:noticeDatas})
 })
-app.get('/contact', function (req, res) {
-		res.render('contact',{msg:"bbb"})
+app.get('/contact', (req, res)=> {
+	res.render('contact',{msg:"bbb"})
 })
-app.get('/enroll', function (req, res) {
+app.get('/enroll', (req, res)=> {
 	res.render('enroll',{})
 })
 
-app.get('/about', function (req, res) {
+app.get('/about', (req, res)=> {
 	res.render('about',{msg:"bbb"})
 })
 
